@@ -9,6 +9,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
 }
 .Cart {
     width: 15em;
@@ -24,6 +25,7 @@ html{
     background-image: url(../imgs/bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Roboto', sans-serif;
 }
 .jmeno{
     font-weight: bolder;
