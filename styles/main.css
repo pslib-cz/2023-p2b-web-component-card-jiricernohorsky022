@@ -27,7 +27,7 @@
 body{
     background-image: url(../imgs/bg.webp);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100vw 100vh;
     font-family: 'Roboto', sans-serif;
 }
 .jmeno{
